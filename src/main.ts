@@ -1,3 +1,4 @@
+import "./main.scss";
 import createMonsterCard from "./components/MonsterCard/MonsterCard";
 
 const app = document.getElementById("app") as HTMLDivElement;
